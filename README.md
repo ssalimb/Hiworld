@@ -1,0 +1,2 @@
+# Hiworld
+simple contract
